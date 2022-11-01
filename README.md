@@ -1,2 +1,2 @@
-# Ps-udo-c-digo
+# Pseudo-codigo
 Algoritmo para contagem de números...
